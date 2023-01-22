@@ -1,0 +1,23 @@
+{
+  "name": "youshd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shakeer7396/youShd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shakeer7396/youShd/issues"
+  },
+  "homepage": "https://github.com/shakeer7396/youShd#readme",
+  "dependencies": {
+    "puppeteer": "^19.5.2"
+  }
+}
